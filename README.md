@@ -46,3 +46,32 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 - What is the Byzantine Fault Tolerance?
    - Byzantine Fault Tolerance is a consensus algorithm that is used to solve the Byzantine General Problem. The algorithm is used to solve the problem when some people in the group are malicious. The algorithm is used to solve the problem when the group of people cannot tell which people are malicious and which people are not. The algorithm is used to solve the problem when the group of people cannot reach a consensus because they cannot trust each other.
    - Suppose one third of the people in the group are malicious. The algorithm is used to solve the problem when the group of people cannot tell which people are malicious and which people are not. The algorithm is used to solve the problem when the group of people cannot reach a consensus because they cannot trust each other.
+
+
+# Benefits of Blockchain Technology
+**1. Decentralization** - In simple word no one is controlling the system
+
+**2. Transparency and Trust** - In simple word everyone can see the data 
+
+**3. Immutability** - In simple word no one can change the data
+
+**4. High Security** - In simple word no one can hack the system because it is decentralized and for hack the system you need to hack all the nodes and It is impossible
+
+**5. High Availability** - In simple word high availability means that the system is always available and no one can stop the system because it is decentralized
+
+**6. Cost Savings** - In simple word no one is controlling the system so no one is taking any fee from the system and no one is taking any fee from the users.
+
+
+
+
+# Disadvantages of Blockchain Technology
+
+**Scalability** - Scalability is low because the system is decentralized and the system is not centralized so the system is not scalable because the system is not centralized
+
+**Adaptability** - Adaptability is low because the system is decentralized and the system is not centralized so the system is not scalable because the system is not centralized
+
+**Regulation** - Regulation is low because the system is decentralized and the system is not centralized so the system is not scalable because the system is not centralized
+
+**privacy** - privacy is low because the system is decentralized and the system is not centralized so the system is not scalable because the system is not centralized
+
+**Relatively immature technology** - Relatively immature technology is low because the system is decentralized and the system is not centralized so the system is not scalable because the system is not centralized
