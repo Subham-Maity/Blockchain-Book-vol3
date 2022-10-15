@@ -48,7 +48,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
    - Suppose one third of the people in the group are malicious. The algorithm is used to solve the problem when the group of people cannot tell which people are malicious and which people are not. The algorithm is used to solve the problem when the group of people cannot reach a consensus because they cannot trust each other.
 
 
-# Benefits of Blockchain Technology
+# 4. Benefits of Blockchain Technology
 **1. Decentralization** - In simple word no one is controlling the system
 
 **2. Transparency and Trust** - In simple word everyone can see the data 
@@ -64,7 +64,7 @@ I love Programming. One of the aims I had when I started ```CodeXam``` was to ma
 
 
 
-# Disadvantages of Blockchain Technology
+# 5. Disadvantages of Blockchain Technology
 
 **Scalability** - Scalability is low because the system is decentralized and the system is not centralized so the system is not scalable because the system is not centralized
 
