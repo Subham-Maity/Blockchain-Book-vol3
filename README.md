@@ -1,3 +1,11 @@
+## I cover all aspects of Blockchain from basic to advanced
+
+# Writer Intro
+## I am **[Subham Maity](https://subham-maity.github.io/subham/)**
+I love Programming. One of the aims I had when I started ```CodeXam``` was to make learning programming easy.
+
+********************************************************************************************************************
+
 ## 1. Tiers of Blockchain Technology
 - **Blockchain 1.0** – Deal with normal transactions but do not have the ability to handle smart contracts.
 - **Blockchain 2.0** - Deal with smart contracts but do not have the ability to handle data privacy. Ethereum is an example of this.
